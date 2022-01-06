@@ -1,0 +1,83 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.flexible{
+    display: flex;
+}
+img{
+    width: 50%;
+    padding: 30px;
+}
+.color1{
+    color: #e77f67;
+    font-size: 45px;
+}
+.half-width{
+    width: 50%;
+    padding: 50px;
+}
+.link-border{
+    text-decoration: none;
+    background-color: #3dc1d3;
+    padding: 10px 20px;
+    color: white;
+    font-size: 20px;
+    border-radius: 7px;
+}
+
+
+
+.experiences-area{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   
+}
+
+.title{
+    text-align: center;
+}
+.box{
+    width: 70%;
+    margin-left: 3%;
+    margin-right: 5%;
+    padding: 50px;
+    border-radius: 20px;
+    
+}
+.box1{
+    background: #dff9fb;
+}
+.box2{
+    background: #c7ecee;
+}
+.box3{
+    background: #95afc0;
+}
+
+/* section 3 */
+.section3img{
+    width: 80%;
+    padding:50px;
+  
+
+}
+.section3img{
+    width: 50%;
+    padding: 30px;
+}
+.Develop{
+    background-image: url(image/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+}
+.Develop-withoutlimits{
+    width: 50%;
+    padding: 5px;
+    
+}
+
