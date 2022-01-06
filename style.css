@@ -44,6 +44,9 @@ img{
 .title{
     text-align: center;
 }
+.title{
+    text-align: center;
+}
 .box{
     width: 70%;
     margin-left: 3%;
@@ -67,13 +70,15 @@ img{
 .section3img{
     width: 80%;
     padding:50px;
+    margin-left: 10px;
 }
 .Develop{
     background-image: url(image/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 20%;
-    margin-right: 50px;
+    margin-right: 500px;
+    
 }
 .Develop-withoutlimits{
     width: 50%;
