@@ -1,3 +1,4 @@
+/* common 3 */
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0%;
@@ -26,18 +27,20 @@ img{
     padding: 10px 20px;
     color: white;
     font-size: 20px;
-    border-radius: 7px;
+    border-radius: 20px;
 }
 
+/* section 1 */
 
-
-.experiences-area{
-    background-image: url(image/exp-bg.png);
-    background-repeat: no-repeat;
-    background-position: left;
-   
+.Stay{
+    border-left: 7px solid;
+    border-color: #3dc1d3;
+    border-radius: 5px;
+    border-spacing: 15px;
+}
 }
 
+/* section 2 */
 .title{
     text-align: center;
 }
@@ -60,6 +63,7 @@ img{
 }
 
 /* section 3 */
+
 .section3img{
     width: 80%;
     padding:50px;
@@ -80,6 +84,7 @@ img{
 
 
 /* section 4 */
+
 .Community{
     background-image: url(image/shapes/shape-1.png);
     background-repeat: no-repeat;
@@ -102,7 +107,7 @@ img{
 }
 
 
-
+/* section 6 */
 
 .footerfont{
     font-family: 'Poppins', sans-serif;
